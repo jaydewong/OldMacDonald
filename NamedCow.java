@@ -1,4 +1,5 @@
-class NamedCow
+class NamedCow //extends Animal
 {
+  
 
 }
