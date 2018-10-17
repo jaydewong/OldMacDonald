@@ -12,5 +12,5 @@ class Pig implements Animal
     public String getType(){
       return myType;
     }
-     //your code here
+
 }
